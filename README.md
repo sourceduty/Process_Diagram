@@ -24,7 +24,7 @@ Alternating process(⇄)
 <br />
 Subprocesses (⇢)
 <br />
-Process interception (↖ ↗ ↙ ↘)
+Process interception (↗ ↙)
 <br />
 Optional process (↷)
 <br />

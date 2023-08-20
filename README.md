@@ -20,7 +20,7 @@ Postprocess (↦)
 <br />
 Reprocess (↺)
 <br />
-Alternating process(⇄)
+Alternating process (⇄)
 <br />
 Subprocesses (⇢)
 <br />

@@ -41,4 +41,5 @@ Multiprocess = 0/0 ↝ 1/1 ⇉ 2/2 ⇉ 3/3 ⇉ 4/4
 ### REFERENCES
 
 [Research.com](https://research.com/education/what-is-information-processing-theory)
+<br />
 [Wikipedia - Process Theory](https://en.wikipedia.org/wiki/Process_theory)

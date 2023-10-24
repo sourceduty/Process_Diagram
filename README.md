@@ -5,8 +5,6 @@
 ## USAGE
 
 End-to-end diagram for software input and output.
-#
-## TYPES
 
 #
 ### Process (→)

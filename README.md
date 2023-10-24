@@ -2,11 +2,11 @@
 
 🔝 Linear activity sequences, trajectories, durations and intervals.
 
-### USAGE
+## USAGE
 
 End-to-end diagram for software input and output.
-
-### TYPES
+#
+## TYPES
 
 #
 ### Process (→)

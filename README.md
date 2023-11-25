@@ -2,12 +2,10 @@
 
 🔝 Linear activity sequences, trajectories, durations and intervals.
 
-#
 ## USAGE
 
 End-to-end diagram for software input and output.
 
-#
 ## CHATGPT
 
 [Symbol Diagram](https://chat.openai.com/g/g-BKPxbMYJD-symbol-diagram)

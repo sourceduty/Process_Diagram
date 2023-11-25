@@ -1,7 +1,3 @@
-## Sourceduty: Process_Theory
-
-🔝 Linear activity sequences, trajectories, durations and intervals.
-
 ## USAGE
 
 End-to-end diagram for software input and output.

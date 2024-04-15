@@ -4,6 +4,23 @@
 
 ***
 
+<details><summary>Process Types</summary>
+<br>
+
+1. Batch Processing
+2. Real-time Processing
+3. Interactive Processing
+4. Multithreading
+5. Multiprocessing
+6. Time Sharing
+7. Distributed Processing
+8. Parallel Processing
+9. Sequential Processing
+10. Transaction Processing
+
+<br>    
+</details>
+
 <details><summary>Process Symbols</summary>
 <br>
 

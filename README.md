@@ -1,14 +1,9 @@
-## USAGE
+![Process Diagram](https://github.com/sourceduty/Process_Theory/assets/123030236/ea490791-6cab-4531-93f8-425dc74dd5e5)
 
-End-to-end diagram for software input and output.
+[Process Diagram](https://chat.openai.com/g/g-BKPxbMYJD-process-diagram) is a specialized AI designed to help create diagrams that represent processes, sequences, and trajectories in software operations. It uses specific symbols to clearly depict various stages and aspects of these processes. This includes different types of processes like preprocess, midprocess, postprocess, and many others. Symbol Diagram focuses on the graphical representation of these operations, making complex software operation flows easier to visualize and understand, but it doesn't provide interpretations or explanations of the processes themselves.
 
-## CHATGPT
+***
 
-[Symbol Diagram](https://chat.openai.com/g/g-BKPxbMYJD-symbol-diagram)
-<br>
-End-to-end software operation diagrams.
-
-#
 ### Process (→)
 A single process, represented by an arrow (→), signifies a linear progression from one step to the next.
 ```

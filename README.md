@@ -174,6 +174,32 @@ Start Game (↝) → Select Level (→) → Play Level (↯)
 <br>    
 </details>
 
+<details><summary>Graduation Process</summary>
+<br>
+
+The graduation process typically involves a series of structured stages that mark the transition of students from one academic level to another, culminating in a formal ceremony. This process begins with the preprocess of meeting academic requirements, followed by application for graduation. After approval, the midprocess involves preparations for the ceremony, including gown rental and invitations. The postprocess is the graduation ceremony itself, and finally, there is an optional process for attending graduation parties or events.
+
+```
+Academic Requirements (↝) → Application for Graduation (→) → Ceremony Preparation (↯) → Graduation Ceremony (↦) → Graduation Parties (↷)
+```
+
+<br>    
+</details>
+
+<details><summary>Degradation Process</summary>
+<br>
+
+The degradation process refers to the decline or reduction in quality, effectiveness, or condition of a software system over time, typically due to factors like system use, environmental conditions, or lack of maintenance. Initially, the system operates optimally (preprocess). Over time, performance may begin to decline (midprocess), and without intervention, the system may reach a critical point of degradation (postprocess). Recovery efforts (reprocess) can be initiated if the degradation is detected early enough.
+
+Battery degradation in electric vehicles (EVs) is a process where the battery's capacity to hold charge diminishes over time due to repeated charge and discharge cycles. The process starts with the initial operation of the battery at full capacity (preprocess). As the vehicle is used and the battery undergoes cycles, its capacity gradually decreases (midprocess). Eventually, the battery may reach a stage where it can no longer support the vehicle's range requirements (postprocess). At this stage, battery management strategies or replacement (reprocess) can be considered to restore functionality.
+
+```
+Initial Operation (↝) → Capacity Decrease (↯) → Range Inadequacy (↦) → Management/Replacement (↺)
+```
+
+<br>    
+</details>
+
 #
 ### Related Links
 

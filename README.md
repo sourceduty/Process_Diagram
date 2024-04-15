@@ -146,6 +146,20 @@ Diagram:
 <br>    
 </details>
 
+<details><summary>Process of Elimination</summary>
+<br>
+
+The "Process of Elimination" is represented by a sequence of steps starting with identifying potential candidates. These candidates are then evaluated based on specific criteria. As part of a divergent process, each candidate is subsequently processed individually. The results from each are reviewed, culminating in a final decision. This methodical approach helps in systematically narrowing down options to reach a definitive conclusion.
+
+```
+Start → Identify Candidates → Evaluate Criteria → Apply Criteria (⇛) → 
+Candidate 1 (↦) → Candidate 2 (↦) → Candidate 3 (↦) → 
+Review Results → Final Decision
+```
+
+<br>    
+</details>
+
 #
 ### Related Links
 

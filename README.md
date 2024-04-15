@@ -160,6 +160,20 @@ Review Results → Final Decision
 <br>    
 </details>
 
+<details><summary>Super Mario Process Example</summary>
+<br>
+
+The process diagram for the Super Mario video game captures the essential gameplay loop, starting from the initial game launch to the decision to proceed to the next level or replay the current one. The game begins with the player starting up and selecting a level. Once a level is chosen, the main gameplay segment, labeled as "Play Level," unfolds through several subprocesses. These include navigating the terrain, where the player moves through the level layout, encountering various enemies in alternating patterns, and collecting essential items like coins and power-ups. Optionally, players might pass checkpoints that save their progress. Towards the end of the level, there might be a boss fight, represented as a process interception, which the player must overcome to complete the level. After defeating the boss or reaching the level's end, the game displays results and rewards, followed by a decision point where the player can choose to advance to the next level or replay the current one, illustrating an iterative nature of gameplay. This diagram effectively outlines the dynamic and interactive elements of the Super Mario gameplay experience.
+
+```
+Start Game (↝) → Select Level (→) → Play Level (↯)
+  ↳ Navigate Terrain (⇢) → Encounter Enemies (⇄) → Collect Items (⇢) → Checkpoints (↷) 
+  ↳ Level Boss (↖) → Complete Level (↦) → Results (↦) → Next Level/Replay (↺) → [back to Select Level (→)]
+```
+
+<br>    
+</details>
+
 #
 ### Related Links
 

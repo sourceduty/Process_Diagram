@@ -4,6 +4,11 @@
 
 ***
 
+<details><summary>Process Symbols</summary>
+<br>
+
+These symbols can be combined and expanded to create complex diagrams that depict the flow of activities, decisions, and interactions within a software input and output process.
+
 ### Process (→)
 A single process, represented by an arrow (→), signifies a linear progression from one step to the next.
 ```
@@ -101,11 +106,15 @@ Example: (3 ↭ 4)
 ```
 This represents a point where multiple activities (3 and 4) merge into a single path.
 
-These symbols can be combined and expanded to create complex diagrams that depict the flow of activities, decisions, and interactions within a software input and output process.
+<br>    
+</details>
 
 #
-### REFERENCES
+### Related Links
 
 [Research.com](https://research.com/education/what-is-information-processing-theory)
 <br />
 [Wikipedia - Process Theory](https://en.wikipedia.org/wiki/Process_theory)
+
+***
+Copyright (C) 2024, Sourceduty - All Rights Reserved.

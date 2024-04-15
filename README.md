@@ -126,6 +126,26 @@ This represents a point where multiple activities (3 and 4) merge into a single 
 <br>    
 </details>
 
+<details><summary>Data Backup and Recovery Process Example</summary>
+<br>
+
+1. Preprocess: Check if backup is needed (↝).
+2. Parallel Process: Back up databases and user files simultaneously (⫸).
+3. Process: Verify integrity of backups (→).
+4. Conditional Process: If verification fails, reprocess backup (⇏).
+5. Reprocess: Redo backup process (↺).
+6. Optional Process: Notify admin if multiple failures occur (↷).
+7. Postprocess: Log completion (↦).
+
+Diagram:
+
+```
+↝ Check backup needed ⫸ [Back up databases ⇆ Back up user files] → Verify backups ⇏ {If fail} ↺ Redo backup ↷ Notify admin (optional) → ↦ Log completion
+```
+
+<br>    
+</details>
+
 #
 ### Related Links
 

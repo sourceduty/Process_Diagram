@@ -1,4 +1,4 @@
-![Process Diagram](https://github.com/sourceduty/Process_Theory/assets/123030236/a9d25569-7472-463c-a345-1e77b3ac15d9)
+![Process Diagram](https://github.com/sourceduty/Process_Theory/assets/123030236/592657f5-7511-48a6-ba47-3b5244fafa42)
 
 [Process Diagram](https://chat.openai.com/g/g-BKPxbMYJD-process-diagram) is a specialized AI designed to help create diagrams that represent processes, sequences, and trajectories in software operations. It uses specific symbols to clearly depict various stages and aspects of these processes. This includes different types of processes like preprocess, midprocess, postprocess, and many others. Symbol Diagram focuses on the graphical representation of these operations, making complex software operation flows easier to visualize and understand, but it doesn't provide interpretations or explanations of the processes themselves.
 

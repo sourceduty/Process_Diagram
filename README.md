@@ -4,19 +4,26 @@
 
 ***
 
+<details><summary>Process IO</summary>
+<br>
+
+# Process IO
+
+Input/output, commonly abbreviated as I/O, refers to the communication between an information processing system (such as a computer) and the outside world. It encompasses the transfer of data to and from external devices, such as keyboards, monitors, printers, storage devices, and networks. In computing, efficient I/O operations are crucial for the overall performance and usability of a system. Whether it's reading data from a disk, sending information over a network, or displaying output to a user, effective management of I/O resources is essential for ensuring smooth and responsive interactions between users and machines.
+
+<br>    
+</details>
+
 <details><summary>Process Types</summary>
 <br>
 
-1. Batch Processing
-2. Real-time Processing
-3. Interactive Processing
-4. Multithreading
-5. Multiprocessing
-6. Time Sharing
-7. Distributed Processing
-8. Parallel Processing
-9. Sequential Processing
-10. Transaction Processing
+### Simple Processes
+
+Sorting, Filtering, Summation, Counting, Searching, Conversion, Basic arithmetic operations, Copying, Concatenation, Validation, Batch Processing, Sequential Processing and Transaction Processing.
+
+### Complex Processes
+
+Machine learning model training, Complex algorithm optimization, System integration, Distributed computing, Data mining, Natural language processing, Image processing and computer vision, Simulation modeling, Cryptographic operations, Large-scale data analytics, Real-time Processing, Interactive Processing, Multithreading, Multiprocessing, Time Sharing, Distributed Processing and Parallel Processing.
 
 <br>    
 </details>
@@ -196,6 +203,56 @@ Battery degradation in electric vehicles (EVs) is a process where the battery's 
 ```
 Initial Operation (↝) → Capacity Decrease (↯) → Range Inadequacy (↦) → Management/Replacement (↺)
 ```
+
+<br>    
+</details>
+
+<details><summary>Process Structure</summary>
+<br>
+
+The structure of a process in software or systems engineering is designed to outline the sequential and logical order of tasks required to accomplish a specific goal. This structure often represents the flow of data and control through various stages of operation, clearly delineating the start, intermediate steps, and end of the process. It includes a series of actions or operations that may involve decision-making branches, parallel execution paths, and loops, which are strategically organized to optimize performance, maintainability, and scalability. The effective structuring of these processes is critical for ensuring that the system operates smoothly and meets its designated outcomes efficiently.
+
+Process structure can be categorized into various levels and types, each serving distinct roles within a larger system. At the most basic level, simple processes like sorting or filtering involve straightforward, linear sequences of steps. More complex processes, such as distributed computing or machine learning model training, incorporate multiple layers that may include subprocesses and require sophisticated coordination mechanisms. Types of processes vary widely, ranging from sequential and batch processing to real-time and interactive processing. Additionally, processes can be synchronous, executing steps in a strict order, or asynchronous, allowing steps to occur independently. Understanding and designing these levels and types appropriately is essential for crafting systems that are robust, flexible, and capable of handling the demands of varied operational environments.
+
+<br>    
+</details>
+
+<details><summary>Process Hierarchy</summary>
+<br>
+
+Process hierarchy levels and types are fundamental concepts in both software development and systems engineering, providing a structured approach to managing complex operations. At the highest level, processes may be broadly categorized into main processes, subprocesses, and auxiliary processes, each serving specific roles within the overall system. Main processes are the core functional tasks that drive the primary objectives of the system. Subprocesses break down these main tasks into smaller, more manageable units that are easier to develop, maintain, and troubleshoot. Auxiliary processes include support tasks such as logging, monitoring, and configuration, which are essential for the smooth operation but are not directly involved in the primary functional flow.
+
+#
+
+Here's a hierarchical representation of a complex process, utilizing the specific symbols to denote different stages and types of processes:
+
+```
+Complex Process (⇄)
+   |
+   ├── Preprocess (↝)
+   |     ├── Data Collection (→)
+   |     └── Data Cleaning (→)
+   |
+   ├── Main Processing (↯)
+   |     ├── Distributed Computing (⇅)
+   |     │     ├── Load Balancing (→)
+   |     │     └── Parallel Processing (⫸)
+   |     |
+   |     ├── Machine Learning Model Training (↻)
+   |     │     ├── Data Preprocessing (⇢)
+   |     │     ├── Model Fitting (⇉)
+   |     │     └── Model Validation (↷)
+   |     |
+   |     └── System Integration (⇈)
+   |           ├── API Integration (→)
+   |           └── Testing and Quality Assurance (⇛)
+   |
+   └── Postprocess (↦)
+         ├── Data Visualization (→)
+         └── Reporting (→)
+```
+
+This structure exemplifies the complexity and depth of operations that can be part of a complex software process, illustrating the use of multiple process types to achieve comprehensive results.
 
 <br>    
 </details>

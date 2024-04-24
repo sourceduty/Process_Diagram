@@ -292,12 +292,5 @@ Distribution of finished products →
 <br>    
 </details>
 
-#
-### Related Links
-
-[Research.com](https://research.com/education/what-is-information-processing-theory)
-<br />
-[Wikipedia - Process Theory](https://en.wikipedia.org/wiki/Process_theory)
-
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.

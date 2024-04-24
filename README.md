@@ -4,6 +4,8 @@
 
 ***
 
+### Notes
+
 <details><summary>Process IO</summary>
 <br>
 
@@ -133,26 +135,6 @@ This represents a point where multiple activities (3 and 4) merge into a single 
 <br>    
 </details>
 
-<details><summary>Data Backup and Recovery Process Example</summary>
-<br>
-
-1. Preprocess: Check if backup is needed (↝).
-2. Parallel Process: Back up databases and user files simultaneously (⫸).
-3. Process: Verify integrity of backups (→).
-4. Conditional Process: If verification fails, reprocess backup (⇏).
-5. Reprocess: Redo backup process (↺).
-6. Optional Process: Notify admin if multiple failures occur (↷).
-7. Postprocess: Log completion (↦).
-
-Diagram:
-
-```
-↝ Check backup needed ⫸ [Back up databases ⇆ Back up user files] → Verify backups ⇏ {If fail} ↺ Redo backup ↷ Notify admin (optional) → ↦ Log completion
-```
-
-<br>    
-</details>
-
 <details><summary>Process of Elimination</summary>
 <br>
 
@@ -162,20 +144,6 @@ The "Process of Elimination" is represented by a sequence of steps starting with
 Start → Identify Candidates → Evaluate Criteria → Apply Criteria (⇛) → 
 Candidate 1 (↦) → Candidate 2 (↦) → Candidate 3 (↦) → 
 Review Results → Final Decision
-```
-
-<br>    
-</details>
-
-<details><summary>Super Mario Process Example</summary>
-<br>
-
-The process diagram for the Super Mario video game captures the essential gameplay loop, starting from the initial game launch to the decision to proceed to the next level or replay the current one. The game begins with the player starting up and selecting a level. Once a level is chosen, the main gameplay segment, labeled as "Play Level," unfolds through several subprocesses. These include navigating the terrain, where the player moves through the level layout, encountering various enemies in alternating patterns, and collecting essential items like coins and power-ups. Optionally, players might pass checkpoints that save their progress. Towards the end of the level, there might be a boss fight, represented as a process interception, which the player must overcome to complete the level. After defeating the boss or reaching the level's end, the game displays results and rewards, followed by a decision point where the player can choose to advance to the next level or replay the current one, illustrating an iterative nature of gameplay. This diagram effectively outlines the dynamic and interactive elements of the Super Mario gameplay experience.
-
-```
-Start Game (↝) → Select Level (→) → Play Level (↯)
-  ↳ Navigate Terrain (⇢) → Encounter Enemies (⇄) → Collect Items (⇢) → Checkpoints (↷) 
-  ↳ Level Boss (↖) → Complete Level (↦) → Results (↦) → Next Level/Replay (↺) → [back to Select Level (→)]
 ```
 
 <br>    
@@ -253,6 +221,73 @@ Complex Process (⇄)
 ```
 
 This structure exemplifies the complexity and depth of operations that can be part of a complex software process, illustrating the use of multiple process types to achieve comprehensive results.
+
+<br>    
+</details>
+
+#
+### Example Usage
+
+<details><summary>Super Mario Process Example</summary>
+<br>
+
+The process diagram for the Super Mario video game captures the essential gameplay loop, starting from the initial game launch to the decision to proceed to the next level or replay the current one. The game begins with the player starting up and selecting a level. Once a level is chosen, the main gameplay segment, labeled as "Play Level," unfolds through several subprocesses. These include navigating the terrain, where the player moves through the level layout, encountering various enemies in alternating patterns, and collecting essential items like coins and power-ups. Optionally, players might pass checkpoints that save their progress. Towards the end of the level, there might be a boss fight, represented as a process interception, which the player must overcome to complete the level. After defeating the boss or reaching the level's end, the game displays results and rewards, followed by a decision point where the player can choose to advance to the next level or replay the current one, illustrating an iterative nature of gameplay. This diagram effectively outlines the dynamic and interactive elements of the Super Mario gameplay experience.
+
+```
+Start Game (↝) → Select Level (→) → Play Level (↯)
+  ↳ Navigate Terrain (⇢) → Encounter Enemies (⇄) → Collect Items (⇢) → Checkpoints (↷) 
+  ↳ Level Boss (↖) → Complete Level (↦) → Results (↦) → Next Level/Replay (↺) → [back to Select Level (→)]
+```
+
+<br>    
+</details>
+
+<details><summary>Data Backup and Recovery Process Example</summary>
+<br>
+
+1. Preprocess: Check if backup is needed (↝).
+2. Parallel Process: Back up databases and user files simultaneously (⫸).
+3. Process: Verify integrity of backups (→).
+4. Conditional Process: If verification fails, reprocess backup (⇏).
+5. Reprocess: Redo backup process (↺).
+6. Optional Process: Notify admin if multiple failures occur (↷).
+7. Postprocess: Log completion (↦).
+
+Diagram:
+
+```
+↝ Check backup needed ⫸ [Back up databases ⇆ Back up user files] → Verify backups ⇏ {If fail} ↺ Redo backup ↷ Notify admin (optional) → ↦ Log completion
+```
+
+<br>    
+</details>
+
+<details><summary>Data Backup and Recovery Process Example</summary>
+<br>
+
+he recycling process for old pop cans into aluminum casting products begins with the collection of used cans, which serves as a crucial preprocessing step. Once collected, these cans undergo sorting based on material type to ensure only aluminum cans proceed to the next stages. After sorting, the cans are shredded into smaller pieces, followed by the removal of paints and other coatings, preparing them for melting. The clean aluminum shreds are then melted and formed into aluminum ingots, a key transformation point in the process. Subsequent steps include a detailed quality check of the ingots to ensure they meet required specifications. The approved ingots are then used in the manufacturing of various aluminum casting products. A final post-process quality assurance step ensures that the finished products are of high quality before they are distributed to the market. This process not only recycles waste effectively but also contributes to the sustainable production of aluminum products.
+
+```
+Collection of used pop cans ↝
+   ↓
+Sorting of cans based on material type →
+   ↓
+Shredding of aluminum cans →
+   ↓
+Removal of paint and other coatings →
+   ↓
+Melting of shredded aluminum →
+   ↓
+Formation of aluminum ingots ↯
+   ↓
+Quality checking of ingots ⇢
+   ↓
+Manufacturing of aluminum casting products from ingots →
+   ↓
+Final quality assurance of products ↦
+   ↓
+Distribution of finished products →
+```
 
 <br>    
 </details>

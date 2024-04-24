@@ -262,10 +262,10 @@ Diagram:
 <br>    
 </details>
 
-<details><summary>Data Backup and Recovery Process Example</summary>
+<details><summary>Pop Can Recycling Process Example</summary>
 <br>
 
-he recycling process for old pop cans into aluminum casting products begins with the collection of used cans, which serves as a crucial preprocessing step. Once collected, these cans undergo sorting based on material type to ensure only aluminum cans proceed to the next stages. After sorting, the cans are shredded into smaller pieces, followed by the removal of paints and other coatings, preparing them for melting. The clean aluminum shreds are then melted and formed into aluminum ingots, a key transformation point in the process. Subsequent steps include a detailed quality check of the ingots to ensure they meet required specifications. The approved ingots are then used in the manufacturing of various aluminum casting products. A final post-process quality assurance step ensures that the finished products are of high quality before they are distributed to the market. This process not only recycles waste effectively but also contributes to the sustainable production of aluminum products.
+The recycling process for old pop cans into aluminum casting products begins with the collection of used cans, which serves as a crucial preprocessing step. Once collected, these cans undergo sorting based on material type to ensure only aluminum cans proceed to the next stages. After sorting, the cans are shredded into smaller pieces, followed by the removal of paints and other coatings, preparing them for melting. The clean aluminum shreds are then melted and formed into aluminum ingots, a key transformation point in the process. Subsequent steps include a detailed quality check of the ingots to ensure they meet required specifications. The approved ingots are then used in the manufacturing of various aluminum casting products. A final post-process quality assurance step ensures that the finished products are of high quality before they are distributed to the market. This process not only recycles waste effectively but also contributes to the sustainable production of aluminum products.
 
 ```
 Collection of used pop cans ↝

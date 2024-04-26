@@ -292,5 +292,16 @@ Distribution of finished products →
 <br>    
 </details>
 
+#
+### Related Links
+
+[Optimal Combination](https://chat.openai.com/g/g-fiUGKO06I-optimal-combination)
+<br>
+[Factory Simulator](https://chat.openai.com/g/g-tYRlt7b2g-factory-simulator)
+<br>
+[Transport Simulator](https://chat.openai.com/g/g-TuP3NAsRB-transport-simulator)
+<br>
+[Product Life](https://chat.openai.com/g/g-EP0GL7BfP-product-life)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.

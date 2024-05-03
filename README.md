@@ -302,6 +302,8 @@ Distribution of finished products →
 [Transport Simulator](https://chat.openai.com/g/g-TuP3NAsRB-transport-simulator)
 <br>
 [Product Life](https://chat.openai.com/g/g-EP0GL7BfP-product-life)
+<br>
+[Process Automation](https://chat.openai.com/g/g-BCcGUvggx-process-automation)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.

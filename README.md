@@ -304,6 +304,8 @@ Distribution of finished products →
 [Product Life](https://chat.openai.com/g/g-EP0GL7BfP-product-life)
 <br>
 [Process Automation](https://chat.openai.com/g/g-BCcGUvggx-process-automation)
+<br>
+[Process](https://github.com/sourceduty/Process)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.

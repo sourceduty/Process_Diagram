@@ -296,6 +296,38 @@ Distribution of finished products →
 <br>    
 </details>
 
+<details><summary>Earth's Weather Processes  (Mother Nature)</summary>
+<br>
+
+Weather processes on Earth are complex and driven by interactions between the atmosphere, oceans, land surfaces, and the sun. These processes influence global climate patterns and are crucial for understanding weather phenomena. The following diagram captures some of the fundamental weather processes that occur in a cyclical manner across the globe.
+
+#### Weather Process Diagram
+
+```
+[Sun's Radiation (→) Heating of Earth's Surface (→) Evaporation (↝) Condensation (↯) Cloud Formation (↦) Precipitation (↺) Runoff (→) Collection in Water Bodies (→) Cycle Repeats]
+
+Preprocess: Evaporation (↝)
+Midprocess: Condensation (↯)
+Postprocess: Cloud Formation (↦)
+Reprocess: Precipitation (↺)
+
+1. Sun's Radiation (→) Heating of Earth's Surface
+2. Heating of Earth's Surface (→) Evaporation
+3. Evaporation (↝) Condensation
+4. Condensation (↯) Cloud Formation
+5. Cloud Formation (↦) Precipitation
+6. Precipitation (↺) Runoff
+7. Runoff (→) Collection in Water Bodies
+8. Collection in Water Bodies (→) Cycle Repeats
+```
+
+#### Summary
+
+The diagram illustrates the continuous cycle of weather processes driven by the sun's energy. Starting with the heating of Earth's surface, water evaporates, condenses to form clouds, and precipitates back to the surface. The runoff collects in water bodies, and the cycle repeats, maintaining the balance of the Earth's weather systems. This cyclical process is fundamental to the distribution of water and the regulation of climate across the planet.
+
+<br>    
+</details>
+
 #
 ### Updates
 

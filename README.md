@@ -296,7 +296,7 @@ Distribution of finished products →
 <br>    
 </details>
 
-<details><summary>Earth's Weather Processes  (Mother Nature)</summary>
+<details><summary>Earth's Weather Processes (Mother Nature)</summary>
 <br>
 
 Weather processes on Earth are complex and driven by interactions between the atmosphere, oceans, land surfaces, and the sun. These processes influence global climate patterns and are crucial for understanding weather phenomena. The following diagram captures some of the fundamental weather processes that occur in a cyclical manner across the globe.
@@ -324,6 +324,83 @@ Reprocess: Precipitation (↺)
 #### Summary
 
 The diagram illustrates the continuous cycle of weather processes driven by the sun's energy. Starting with the heating of Earth's surface, water evaporates, condenses to form clouds, and precipitates back to the surface. The runoff collects in water bodies, and the cycle repeats, maintaining the balance of the Earth's weather systems. This cyclical process is fundamental to the distribution of water and the regulation of climate across the planet.
+
+<br>    
+</details>
+
+<details><summary>Cloud Formation Processes</summary>
+<br>
+
+There are several primary types of clouds: Cumulus, Stratus, Cirrus, and Nimbus. Each type has unique characteristics and formation processes.
+
+#### Cumulus Cloud Formation
+
+Description: Cumulus clouds are fluffy, white clouds with a flat base, often seen during fair weather. They form through the process of convection.
+
+```
+[Surface Heating (→) Rising Warm Air (→) Cooling (↝) Condensation (↯) Cumulus Cloud Formation]
+
+Preprocess: Cooling (↝)
+Midprocess: Condensation (↯)
+
+1. Surface Heating (→) Rising Warm Air
+2. Rising Warm Air (→) Cooling
+3. Cooling (↝) Condensation
+4. Condensation (↯) Cumulus Cloud Formation
+```
+
+#### Stratus Cloud Formation
+
+Description: Stratus clouds are low, gray clouds that cover the sky like a blanket, often resulting in overcast conditions. They form from the gradual lifting of a large air mass.
+
+```
+[Large Air Mass (→) Gradual Lifting (→) Cooling (↝) Condensation (↯) Stratus Cloud Formation]
+
+Preprocess: Cooling (↝)
+Midprocess: Condensation (↯)
+
+1. Large Air Mass (→) Gradual Lifting
+2. Gradual Lifting (→) Cooling
+3. Cooling (↝) Condensation
+4. Condensation (↯) Stratus Cloud Formation
+```
+
+#### Cirrus Cloud Formation
+
+Description: Cirrus clouds are high, wispy clouds composed of ice crystals. They form at high altitudes where temperatures are very low.
+
+```
+[High Altitude (→) Low Temperature (→) Ice Crystal Formation (↝) Cirrus Cloud Formation]
+
+Preprocess: Ice Crystal Formation (↝)
+
+1. High Altitude (→) Low Temperature
+2. Low Temperature (→) Ice Crystal Formation
+3. Ice Crystal Formation (↝) Cirrus Cloud Formation
+```
+
+
+#### Nimbus Cloud Formation
+
+Description: Nimbus clouds are thick, dark clouds that produce continuous rain or snow. They are often associated with stormy weather and are typically low-level clouds.
+
+```
+[Moisture Accumulation (→) Cooling (↝) Condensation (↯) Thickening Cloud Layer (→) Nimbus Cloud Formation (↺) Precipitation]
+
+Preprocess: Cooling (↝)
+Midprocess: Condensation (↯)
+Reprocess: Precipitation (↺)
+
+1. Moisture Accumulation (→) Cooling
+2. Cooling (↝) Condensation
+3. Condensation (↯) Thickening Cloud Layer
+4. Thickening Cloud Layer (→) Nimbus Cloud Formation
+5. Nimbus Cloud Formation (↺) Precipitation
+```
+
+#### Summary
+
+These diagrams illustrate the formation processes of different types of clouds, each with distinct characteristics and mechanisms. From the convection-driven cumulus clouds to the ice-crystal-based cirrus clouds, understanding these processes helps in predicting weather patterns and phenomena.
 
 <br>    
 </details>

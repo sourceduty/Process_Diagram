@@ -300,8 +300,7 @@ Distribution of finished products →
 ### Updates
 
 ✅ Wednesday, July 24, 2024 - Petri Nets: This custom GPT will now offer to develop process place/transition net (Petri Net) diagrams which focus on process transitioning.
-
-Edited convo starter: Design a place/transition net (Petri Net) process diagram.
+- Edited convo starter: Design a place/transition net (Petri Net) process diagram.
 
 #
 ### Related Links

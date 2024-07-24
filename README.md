@@ -1,5 +1,9 @@
 ![Process Diagram](https://github.com/sourceduty/Process_Theory/assets/123030236/a42a22dc-0b99-4783-ab0a-fb40940841cd)
 
+> End-to-end software process operation diagrams. 
+
+#
+
 [Process Diagram](https://chat.openai.com/g/g-BKPxbMYJD-process-diagram) is a specialized AI designed to help create diagrams that represent processes, sequences, and trajectories in software operations. It uses specific symbols to clearly depict various stages and aspects of these processes. This includes different types of processes like preprocess, midprocess, postprocess, and many others. Symbol Diagram focuses on the graphical representation of these operations, making complex software operation flows easier to visualize and understand, but it doesn't provide interpretations or explanations of the processes themselves.
 
 ***
@@ -291,6 +295,13 @@ Distribution of finished products →
 
 <br>    
 </details>
+
+#
+### Updates
+
+✅ Wednesday, July 24, 2024 - Petri Nets: This custom GPT will now offer to develop process place/transition net (Petri Net) diagrams which focus on process transitioning.
+
+Edited convo starter: Design a place/transition net (Petri Net) process diagram.
 
 #
 ### Related Links

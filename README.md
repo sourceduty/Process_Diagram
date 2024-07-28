@@ -235,12 +235,65 @@ This structure exemplifies the complexity and depth of operations that can be pa
 <details><summary>Super Mario Process Example</summary>
 <br>
 
-The process diagram for the Super Mario video game captures the essential gameplay loop, starting from the initial game launch to the decision to proceed to the next level or replay the current one. The game begins with the player starting up and selecting a level. Once a level is chosen, the main gameplay segment, labeled as "Play Level," unfolds through several subprocesses. These include navigating the terrain, where the player moves through the level layout, encountering various enemies in alternating patterns, and collecting essential items like coins and power-ups. Optionally, players might pass checkpoints that save their progress. Towards the end of the level, there might be a boss fight, represented as a process interception, which the player must overcome to complete the level. After defeating the boss or reaching the level's end, the game displays results and rewards, followed by a decision point where the player can choose to advance to the next level or replay the current one, illustrating an iterative nature of gameplay. This diagram effectively outlines the dynamic and interactive elements of the Super Mario gameplay experience.
+In the Super Mario process diagram, the player begins at the start of Level 1-1 and moves right. Along the way, they encounter various challenges such as Goombas, which can be defeated by jumping on them, and blocks that may contain power-ups or coins. The player may collect these power-ups to grow or gain additional abilities. They must also navigate gaps by jumping over them, with the risk of losing a life if they fall. The goal is to reach the flagpole at the end of the level, marking the level's completion and allowing the player to proceed to the next level. Throughout the level, the player must skillfully manage these obstacles to advance successfully.
 
 ```
-Start Game (↝) → Select Level (→) → Play Level (↯)
-  ↳ Navigate Terrain (⇢) → Encounter Enemies (⇄) → Collect Items (⇢) → Checkpoints (↷) 
-  ↳ Level Boss (↖) → Complete Level (↦) → Results (↦) → Next Level/Replay (↺) → [back to Select Level (→)]
+Start
+  |
+  V
+Level 1-1
+  |
+  +--> Player moves right
+  |
+  +--> Player encounters Goomba
+  |     |
+  |     +--> Player jumps on Goomba
+  |     |     |
+  |     |     +--> Goomba defeated
+  |     |     |
+  |     |     +--> Continue
+  |     |
+  |     +--> Player hits Goomba
+  |           |
+  |           +--> Player loses a life
+  |           |
+  |           +--> Continue (if lives > 0)
+  |
+  +--> Player encounters blocks
+  |     |
+  |     +--> Player hits block
+  |           |
+  |           +--> Power-up appears (e.g., mushroom)
+  |           |     |
+  |           |     +--> Player collects power-up
+  |           |           |
+  |           |           +--> Player grows (if mushroom)
+  |           |           |
+  |           |           +--> Player gains fire power (if fire flower)
+  |           |
+  |           +--> Coin appears
+  |                 |
+  |                 +--> Player collects coin
+  |
+  +--> Player encounters gap
+  |     |
+  |     +--> Player jumps over gap
+  |           |
+  |           +--> Successful jump
+  |           |
+  |           +--> Fall into gap
+  |                 |
+  |                 +--> Player loses a life
+  |                 |
+  |                 +--> Continue (if lives > 0)
+  |
+  +--> Player reaches flagpole
+        |
+        +--> Player jumps on flagpole
+        |
+        +--> Level complete
+        |
+        +--> Proceed to next level
 ```
 
 <br>    

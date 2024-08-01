@@ -23,13 +23,27 @@ Input/output, commonly abbreviated as I/O, refers to the communication between a
 <details><summary>Process Types</summary>
 <br>
 
-### Simple Processes
-
-Sorting, Filtering, Summation, Counting, Searching, Conversion, Basic arithmetic operations, Copying, Concatenation, Validation, Batch Processing, Sequential Processing and Transaction Processing.
-
-### Complex Processes
-
-Machine learning model training, Complex algorithm optimization, System integration, Distributed computing, Data mining, Natural language processing, Image processing and computer vision, Simulation modeling, Cryptographic operations, Large-scale data analytics, Real-time Processing, Interactive Processing, Multithreading, Multiprocessing, Time Sharing, Distributed Processing and Parallel Processing.
++-----------------------+--------------------------------------------------------------+
+| Simple Processes      | Complex Processes                                           |
++-----------------------+--------------------------------------------------------------+
+| Sorting               | Machine learning model training                            |
+| Filtering             | Complex algorithm optimization                              |
+| Summation             | System integration                                         |
+| Counting              | Distributed computing                                      |
+| Searching             | Data mining                                                 |
+| Conversion            | Natural language processing                                |
+| Basic arithmetic ops  | Image processing and computer vision                        |
+| Copying               | Simulation modeling                                        |
+| Concatenation         | Cryptographic operations                                   |
+| Validation            | Large-scale data analytics                                 |
+| Batch Processing      | Real-time Processing                                        |
+| Sequential Processing | Interactive Processing                                     |
+| Transaction Processing| Multithreading                                              |
+|                       | Multiprocessing                                             |
+|                       | Time Sharing                                                |
+|                       | Distributed Processing                                     |
+|                       | Parallel Processing                                        |
++-----------------------+--------------------------------------------------------------+
 
 <br>    
 </details>

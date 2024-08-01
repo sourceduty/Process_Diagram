@@ -27,7 +27,7 @@ Input/output, commonly abbreviated as I/O, refers to the communication between a
 <br>
 
 ```
-Raw Material Input
+Raw Material (Input)
 |
 Main Line
 │

@@ -39,102 +39,41 @@ Machine learning model training, Complex algorithm optimization, System integrat
 
 These symbols can be combined and expanded to create complex diagrams that depict the flow of activities, decisions, and interactions within a software input and output process.
 
-### Process (→)
-A single process, represented by an arrow (→), signifies a linear progression from one step to the next.
-```
-Example: 0 → 1 → 2 → 3 → 4
-```
-This means that the process starts at step 0, moves to step 1, and then to step 2.
-
-#
-
-### Multiprocess (⇄ ⇅ ⇆ ⇇ ⇈ ⇉ ⇊)
-A multiprocess involves multiple parallel activities, and it's represented using various symbols. The specific symbol denotes the synchronization or interaction between these activities.
-```
-Example: 0/0 ⇄ 1/1 ⇉ 2/2
-```
-This means there are three parallel activities (0, 1, and 2), and the symbols indicate how they interact. In this case, ⇄ suggests they interact closely, while ⇉ indicates a more separated interaction.
-
-#
-
-### Preprocess (↝)
-A preprocess is an initial step before the main process, often used for data preparation or setup.
-```
-Example: 0 ↝ 1
-```
-This means that step 0 is a preprocessing step that leads to the main process at step 1.
-
-#
-
-### Midprocess (↯)
-A midprocess symbolizes intermediate steps within the overall process.
-```
-Example: 1 ↯ 2
-```
-This represents an intermediate step occurring between step 1 and step 2.
-
-#
-
-### Postprocess (↦)
-A postprocess is a step that occurs after the main process, often used for finalization or cleanup.
-```
-Example: 4 ↦ 5
-```
-This means that step 5 is a postprocessing step following step 4.
-
-#
-
-### Reprocess (↺)
-Reprocess indicates that a step is being revisited or iterated upon.
-```
-Example: 3 ↺
-```
-This means that step 3 is revisited for reprocessing.
-
-#
-
-### Alternating process (⇄)
-An alternating process involves steps that alternate or switch between different paths.
-```
-Example: (3 ⇄ 4)
-```
-This represents a situation where the process can alternate between step 3 and step 4.
-
-#
-
-### Subprocesses (⇢)
-Subprocesses represent a hierarchical structure, where a main process is broken down into smaller subprocesses.
-```
-Example: 0 ⇢ 1 ⇢ 2 ⇢ 3
-```
-This signifies that there's a main process (0) that is divided into multiple subprocesses (1, 2, 3).
-
-#
-
-### Process interception (↗ ↙)
-Process interception symbols indicate branching or decisions within the process.
-```
-Example: 2 ↗ 3 ↙ 4
-```
-This suggests that at step 2, the process can either move to step 3 or step 4 based on a decision.
-
-#
-
-### Optional process (↷)
-An optional process is a step that may or may not be executed, depending on certain conditions.
-```
-Example: 3 ↷
-```
-This implies that step 3 is optional and may or may not be included in the process.
-
-#
-
-### Joint process (↭)
-A joint process symbolizes the convergence of multiple paths or activities into a single path.
-```
-Example: (3 ↭ 4)
-```
-This represents a point where multiple activities (3 and 4) merge into a single path.
+| Symbol | Name                 | Hex Code | Description                                                                 | Example                   |
+|--------|----------------------|----------|-----------------------------------------------------------------------------|---------------------------|
+| →      | Process              | U+2192   | Represents a single, linear progression from one step to the next.           | 0 → 1 → 2 → 3 → 4         |
+| ⇄      | Multiprocess         | U+21C4   | Indicates interaction or synchronization between multiple parallel activities.| 0/0 ⇄ 1/1 ⇉ 2/2           |
+| ⇉      | Parallel Process     | U+21C9   | Represents a separated interaction between parallel processes.               | 0/0 ⇄ 1/1 ⇉ 2/2           |
+| ↝      | Preprocess           | U+219D   | Represents an initial setup or preparation step before the main process.     | 0 ↝ 1                     |
+| ↯      | Midprocess           | U+21AF   | Indicates an intermediate step within the overall process.                   | 1 ↯ 2                     |
+| ↦      | Postprocess          | U+21A6   | Represents a step that occurs after the main process, usually for finalization.| 4 ↦ 5                    |
+| ↺      | Reprocess            | U+21BA   | Indicates that a step is being revisited or iterated upon.                   | 3 ↺                        |
+| ⇄      | Alternating Process  | U+21C4   | Represents steps that alternate or switch between different paths.           | (3 ⇄ 4)                   |
+| ⇢      | Subprocesses         | U+21E2   | Represents a hierarchical structure, with a main process broken into subprocesses.| 0 ⇢ 1 ⇢ 2 ⇢ 3         |
+| ↗ ↙    | Process Interception | U+2197, U+2199 | Indicates branching or decisions within the process, leading to different paths.| 2 ↗ 3 ↙ 4          |
+| ↷      | Optional Process     | U+21B7   | Indicates a step that may or may not be executed based on certain conditions.| 3 ↷                        |
+| ↭      | Joint Process        | U+21AD   | Represents the convergence of multiple paths or activities into a single path.| (3 ↭ 4)                  |
+| ⇅      | Vertical Process     | U+21C5   | Indicates vertical interaction or movement between steps.                    |                           |
+| ⇆      | Bidirectional Process| U+21C6   | Represents a process that can move in either direction between steps.        |                           |
+| ⇇      | Backward Process     | U+21C7   | Represents a process that moves backward or reverses.                        |                           |
+| ⇈      | Ascending Process    | U+21C8   | Represents an upward progression in the process.                             |                           |
+| ⇊      | Descending Process   | U+21CA   | Represents a downward progression in the process.                            |                           |
+| ↪      | Rightward Hook       | U+21AA   | Indicates a process that hooks or moves rightward after a step.              | Step 2 ↪ Step 3           |
+| ↩      | Leftward Hook        | U+21A9   | Indicates a process that hooks or moves leftward after a step.               | Step 3 ↩ Step 2           |
+| ⇋      | Leftward Double Arrow| U+21CB   | Indicates a two-way interaction where the process can move leftward and return.| 4 ⇋ 3                     |
+| ⇌      | Rightward Double Arrow| U+21CC  | Indicates a two-way interaction where the process can move rightward and return.| 3 ⇌ 4                     |
+| ⤴      | Topward Arrow        | U+2934   | Represents a process that moves upward from a lower level.                   | 2 ⤴ 3                     |
+| ⤵      | Downward Arrow       | U+2935   | Represents a process that moves downward from an upper level.                | 3 ⤵ 2                     |
+| ↻      | Clockwise Process    | U+21BB   | Indicates a process that follows a clockwise loop or cycle.                  | Step ↻                     |
+| ↶      | Counterclockwise Process | U+21B6| Indicates a process that follows a counterclockwise loop or cycle.           | Step ↶                     |
+| ⬌      | Horizontal Arrow     | U+2B0C   | Represents a process that moves horizontally between two points.             | Point A ⬌ Point B         |
+| ⬍      | Vertical Arrow       | U+2B0D   | Represents a process that moves vertically between two points.               | Point A ⬍ Point B         |
+| ⤢      | Rightward Diagonal Arrow | U+2932| Represents a process moving diagonally upward and rightward.                 | A ⤢ B                     |
+| ⤣      | Leftward Diagonal Arrow | U+2933| Represents a process moving diagonally upward and leftward.                  | A ⤣ B                     |
+| ⤡      | Rightward Diagonal Arrow Down | U+2931 | Represents a process moving diagonally downward and rightward.              | A ⤡ B                     |
+| ⤤      | Leftward Diagonal Arrow Down | U+2934 | Represents a process moving diagonally downward and leftward.              | A ⤤ B                     |
+| ⇜      | Leftward Squiggly Arrow | U+21DC | Represents a process with a more complex or indirect leftward movement.     | Start ⇜ Finish            |
+| ⇝      | Rightward Squiggly Arrow | U+21DD | Represents a process with a more complex or indirect rightward movement.    | Start ⇝ Finish            |
 
 <br>    
 </details>

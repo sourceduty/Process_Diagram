@@ -98,9 +98,22 @@ These symbols can be combined and expanded to create complex diagrams that depic
 The "Process of Elimination" is represented by a sequence of steps starting with identifying potential candidates. These candidates are then evaluated based on specific criteria. As part of a divergent process, each candidate is subsequently processed individually. The results from each are reviewed, culminating in a final decision. This methodical approach helps in systematically narrowing down options to reach a definitive conclusion.
 
 ```
-Start → Identify Candidates → Evaluate Criteria → Apply Criteria (⇛) → 
-Candidate 1 (↦) → Candidate 2 (↦) → Candidate 3 (↦) → 
-Review Results → Final Decision
+Start → Identify Candidates ↝ Evaluate Candidates
+⬇
+Process Candidate 1 → Review Candidate 1 Results ↯ 
+Process Candidate 2 → Review Candidate 2 Results ↯ 
+Process Candidate 3 → Review Candidate 3 Results ↯ 
+Process Candidate 4 → Review Candidate 4 Results ↯ 
+Process Candidate 5 → Review Candidate 5 Results ↯ 
+Process Candidate 6 → Review Candidate 6 Results ↯ 
+Process Candidate 7 → Review Candidate 7 Results ↯ 
+Process Candidate 8 → Review Candidate 8 Results ↯ 
+Process Candidate 9 → Review Candidate 9 Results ↯ 
+Process Candidate 10 → Review Candidate 10 Results
+⬇
+Compare All Candidates ↷
+⬇
+Final Decision ↗ Notify Selected Candidate ↦ End Process ⇶
 ```
 
 <br>    
@@ -112,7 +125,23 @@ Review Results → Final Decision
 The graduation process typically involves a series of structured stages that mark the transition of students from one academic level to another, culminating in a formal ceremony. This process begins with the preprocess of meeting academic requirements, followed by application for graduation. After approval, the midprocess involves preparations for the ceremony, including gown rental and invitations. The postprocess is the graduation ceremony itself, and finally, there is an optional process for attending graduation parties or events.
 
 ```
-Academic Requirements (↝) → Application for Graduation (→) → Ceremony Preparation (↯) → Graduation Ceremony (↦) → Graduation Parties (↷)
+Start → Academic Requirements
+⬇
+↝ Complete Required Courses
+   ↝ Submit Assignments
+   ↝ Pass Exams
+   ↝ Fulfill Attendance
+   ↝ Complete Capstone Project
+⬇
+Application for Graduation → Submit Graduation Application → Pay Graduation Fees → Confirm Eligibility
+⬇
+Ceremony Preparation ↯ Order Cap and Gown → Send Invitations → Arrange Travel Plans → Rehearsal
+⬇
+Graduation Ceremony ↦ Check-in at Venue → Line Up for Ceremony → Walk Across the Stage → Receive Diploma → Official Photos
+⬇
+Graduation Parties ↷ Attend Family Celebration → Join Friends’ Gathering → Participate in School’s After-Party → Optional Alumni Event
+⬇
+End Process ⇶
 ```
 
 <br>    

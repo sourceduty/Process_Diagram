@@ -767,6 +767,8 @@ These diagrams illustrate the formation processes of different types of clouds, 
 [Process](https://github.com/sourceduty/Process)
 <br>
 [Topology Optimize](https://github.com/sourceduty/Topology_Optimize)
+<br>
+[Computer Mouse Factory](https://github.com/sourceduty/Computer_Mouse_Factory)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.

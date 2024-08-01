@@ -25,7 +25,7 @@ Input/output, commonly abbreviated as I/O, refers to the communication between a
 
 
 | Simple Processes      | Complex Processes                                           |
-+-----------------------+--------------------------------------------------------------+
+|-----------------------|-------------------------------------------------------------|
 | Sorting               | Machine learning model training                            |
 | Filtering             | Complex algorithm optimization                              |
 | Summation             | System integration                                         |

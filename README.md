@@ -519,9 +519,6 @@ This structure exemplifies the complexity and depth of operations that can be pa
 <br>    
 </details>
 
-#
-### Example Usage
-
 <details><summary>Super Mario Process Example</summary>
 <br>
 

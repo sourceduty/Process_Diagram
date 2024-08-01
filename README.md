@@ -27,6 +27,8 @@ Input/output, commonly abbreviated as I/O, refers to the communication between a
 <br>
 
 ```
+Raw Material Input
+|
 Main Line
 │
 1. Chassis Assembly (CA)
@@ -134,24 +136,24 @@ Main Line
 ↓ Continue to next process step
 │
 4. Engine Assembly with Chassis (EAC)
-│   ├── Mounting Engine to Chassis (ME)
-│   │   ├── Aligning Engine and Transmission (E1)
-│   │   │   ├── Alignment Tool (AT)
-│   │   │   └── Engine Hoist (EH)
-│   │   └── Securing with Mounting Brackets (E2)
-│   │       ├── Bolting Tool (BT)
-│   │       └── Torque Wrench (TW)
+│       ├── Mounting Engine to Chassis (ME)
+│       ├── Aligning Engine and Transmission (E1)
+│       │   ├── Alignment Tool (AT)
+│       │   └── Engine Hoist (EH)
+│       └── Securing with Mounting Brackets (E2)
+│           ├── Bolting Tool (BT)
+│           └── Torque Wrench (TW)
 │
 ↓ Continue to next process step
 │
 5. Transmission & Drivetrain Assembly with Chassis (TDAC)
-│   ├── Integrating Transmission with Chassis (ITC)
-│   │   ├── Connecting Transmission to Engine (I1)
-│   │   │   ├── Alignment Tool (AT)
-│   │   │   └── Engine Hoist (EH)
-│   │   └── Ensuring Proper Alignment (I2)
-│   │       ├── Alignment Gauge (AG)
-│   │       └── Measuring Tools (MT)
+│       ├── Integrating Transmission with Chassis (ITC)
+│       ├── Connecting Transmission to Engine (I1)
+│       │   ├── Alignment Tool (AT)
+│       │   └── Engine Hoist (EH)
+│       └── Ensuring Proper Alignment (I2)
+│           ├── Alignment Gauge (AG)
+│           └── Measuring Tools (MT)
 │
 ↓ Continue to next process step
 │
@@ -195,13 +197,13 @@ Main Line
 ↓ Continue to next process step
 │
 7. Body Assembly with Chassis (BAC)
-│   ├── Merging Body with Chassis (MBC)
-│   │   ├── Mounting Body to Frame (M1)
-│   │   │   ├── Lift Table (LT)
-│   │   │   └── Bolting Tool (BT)
-│   │   └── Securing with Bolts and Fasteners (M2)
-│   │       ├── Bolting Tool (BT)
-│   │       └── Torque Wrench (TW)
+│       ├── Merging Body with Chassis (MBC)
+│       ├── Mounting Body to Frame (M1)
+│       │   ├── Lift Table (LT)
+│       │   └── Bolting Tool (BT)
+│       └── Securing with Bolts and Fasteners (M2)
+│           ├── Bolting Tool (BT)
+│           └── Torque Wrench (TW)
 │
 ↓ Continue to next process step
 │
@@ -319,8 +321,8 @@ Main Line
         └── Conducting Final Quality Check (Q2)
             ├── Quality Assurance Tools (QAT)
             └── Final Inspection Station (FIS)
-↓ Continue to next process step
-    Completed Vehicle (Output)
+            |
+            Completed Vehicle (Output)
 ```
 
 <br>    

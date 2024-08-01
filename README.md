@@ -23,7 +23,7 @@ Input/output, commonly abbreviated as I/O, refers to the communication between a
 <details><summary>Process Types</summary>
 <br>
 
-+-----------------------+--------------------------------------------------------------+
+
 | Simple Processes      | Complex Processes                                           |
 +-----------------------+--------------------------------------------------------------+
 | Sorting               | Machine learning model training                            |
@@ -43,7 +43,7 @@ Input/output, commonly abbreviated as I/O, refers to the communication between a
 |                       | Time Sharing                                                |
 |                       | Distributed Processing                                     |
 |                       | Parallel Processing                                        |
-+-----------------------+--------------------------------------------------------------+
+
 
 <br>    
 </details>
